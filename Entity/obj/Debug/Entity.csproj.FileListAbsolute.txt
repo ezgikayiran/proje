@@ -1,0 +1,10 @@
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Entity\bin\Debug\Entity.dll
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Entity\bin\Debug\Entity.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Entity\obj\Debug\Entity.dll
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Entity\obj\Debug\Entity.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Entity\bin\Debug\Entity.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\Entity\bin\Debug\Entity.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\CariHesapYönetimi\Entity\obj\Debug\Entity.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\Entity\obj\Debug\Entity.pdb

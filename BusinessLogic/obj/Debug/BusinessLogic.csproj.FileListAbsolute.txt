@@ -1,0 +1,18 @@
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\Entity.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\Entity.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\DAL.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\BusinessLogic\bin\Debug\DAL.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\DAL.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\Entity.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\DAL.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\bin\Debug\Entity.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\BusinessLogic\obj\Debug\BusinessLogic.pdb

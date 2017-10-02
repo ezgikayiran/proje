@@ -1,0 +1,40 @@
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\Presentation.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\Presentation.exe
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\Presentation.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.CariHesaplarListe.resources
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.GirisEkran.resources
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.YeniCariHesapEkran.resources
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.exe
+c:\users\wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\BusinessLogic.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\Entity.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\Entity.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\DAL.dll
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\bin\Debug\DAL.pdb
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.GrupListe.resources
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.YeniHesapHareketEkran.resources
+C:\Users\Wissen\documents\visual studio 2015\Projects\CariHesapYönetimi\Presentation\obj\Debug\Presentation.HesapHareketListe.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\Presentation.exe
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\BusinessLogic.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\Entity.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\DAL.dll
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\BusinessLogic.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\Entity.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\bin\Debug\DAL.pdb
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.CariHesaplarListe.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.GirisEkran.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.GrupListe.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.HesapHareketListe.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.YeniCariHesapEkran.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.YeniHesapHareketEkran.resources
+C:\Users\Wissen\Documents\CariHesapYönetimi\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
